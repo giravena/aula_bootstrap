@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar{
+    background-color: #D5DBDB;
+}
+
+.quem-somos{
+    background-color: #B2BABB;
+}
+
+.quem-somos h4{
+    margin-top: 20px;
+}
+
+.margin{
+    padding: 50px;
+}
+
+.parceiros{
+    background-color: #D6DBDF ;
+}
+
+footer p{
+    color: #B2BABB;
+}
